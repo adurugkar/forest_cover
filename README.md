@@ -1,1 +1,1 @@
-# forest_cover
+# forest_cover_type
